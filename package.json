@@ -29,7 +29,7 @@
     "match.d.ts",
     "index.d.ts"
   ],
-  "typings": "./index.d.ts",
+  "types": "src/index.d.ts",
   "keywords": [
     "preact",
     "router"
